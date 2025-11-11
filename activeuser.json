@@ -10,5 +10,11 @@
         "key": "XPOL",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3c623a25f67d414e",
+        "key": "Mir89",
+        "expirydate": "30-12-30",
+        "Allowoffline": false
     }
 ]
