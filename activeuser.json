@@ -118,5 +118,11 @@
     "key": "EERFF",
     "expirydate": "13-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "poco x5",
+    "key": "amir123",
+    "expirydate": "13-11-2025",
+    "Allowoffline": false
   }
 ]
