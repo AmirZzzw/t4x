@@ -22,11 +22,5 @@
         "key": "Test",
         "expirydate": " 13-11-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "3c623a25f67d414e",
-        "key": "Mir89",
-        "expirydate": "2025-12-12",
-        "Allowoffline": false
     }
 ]
