@@ -64,5 +64,11 @@
     "key": "VEXORXIT",
     "expirydate": "13-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "Redmi not 14",
+    "key": "9414724606",
+    "expirydate": "13-11-2025",
+    "Allowoffline": false
   }
 ]
