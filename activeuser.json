@@ -58,5 +58,11 @@
     "key": "47",
     "expirydate": "13-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "آیفون",
+    "key": "VEXORXIT",
+    "expirydate": "13-11-2025",
+    "Allowoffline": false
   }
 ]
