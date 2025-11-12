@@ -190,5 +190,11 @@
     "key": "Zxc",
     "expirydate": "14-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "187eee312440400",
+    "key": "armin98",
+    "expirydate": "14-11-2025",
+    "Allowoffline": false
   }
 ]
