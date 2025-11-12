@@ -172,5 +172,11 @@
     "key": "R4D1N",
     "expirydate": "13-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9b6f0991d8f7c20b",
+    "key": "Tervix",
+    "expirydate": "14-11-2025",
+    "Allowoffline": false
   }
 ]
