@@ -46,5 +46,11 @@
     "key": "sex",
     "expirydate": "13-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8447721854",
+    "key": "Pain",
+    "expirydate": "13-11-2025",
+    "Allowoffline": false
   }
 ]
