@@ -22,5 +22,11 @@
         "key": "QOPIJ",
         "expirydate": "30-12-1",
         "Allowoffline": false
+    },
+    {
+        "device_id": "93814e14f1cfe82b",
+        "key": "QOPIJ",
+        "expirydate": "30-12-1",
+        "Allowoffline": false
     }
 ]
