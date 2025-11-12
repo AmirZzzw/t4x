@@ -52,5 +52,11 @@
     "key": "Pain",
     "expirydate": "13-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "357103b5ed84d594",
+    "key": "47",
+    "expirydate": "13-11-2025",
+    "Allowoffline": false
   }
 ]
