@@ -256,5 +256,11 @@
     "key": "Eh4aN",
     "expirydate": "14-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1634a9cc3362b5d9",
+    "key": "F32",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
