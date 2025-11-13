@@ -244,5 +244,11 @@
     "key": "ataFF",
     "expirydate": "14-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "ae9a664b7ef4bf3b",
+    "key": "ae9a664b7ef4bf3b",
+    "expirydate": "14-11-2025",
+    "Allowoffline": false
   }
 ]
