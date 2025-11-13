@@ -214,5 +214,11 @@
     "key": "d0950c6a1c28373b",
     "expirydate": "14-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "80e8cb82d092b1cd",
+    "key": "ERFF",
+    "expirydate": "14-11-2025",
+    "Allowoffline": false
   }
 ]
