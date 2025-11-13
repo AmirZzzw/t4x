@@ -226,5 +226,11 @@
     "key": "SoloDex",
     "expirydate": "14-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1634a9cc3362b5d9",
+    "key": "F50",
+    "expirydate": "13-12-2025",
+    "Allowoffline": false
   }
 ]
