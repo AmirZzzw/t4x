@@ -232,5 +232,11 @@
     "key": "F50",
     "expirydate": "13-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "58e65bbf94efabce",
+    "key": "58e65bbf94efabce",
+    "expirydate": "14-11-2025",
+    "Allowoffline": false
   }
 ]
