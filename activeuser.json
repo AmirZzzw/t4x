@@ -328,5 +328,11 @@
     "key": "omega",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3024ebfff7436082",
+    "key": "Vmpwjz",
+    "expirydate": "15-11-2025",
+    "Allowoffline": false
   }
 ]
