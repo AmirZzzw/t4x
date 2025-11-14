@@ -310,5 +310,11 @@
     "key": "Amir13",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "95ee920cacd5f9e9",
+    "key": "Parsa",
+    "expirydate": "15-11-2025",
+    "Allowoffline": false
   }
 ]
