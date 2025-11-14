@@ -334,5 +334,11 @@
     "key": "Vmpwjz",
     "expirydate": "15-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "32f3e5be4a0c74fe",
+    "key": "hojjat",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
