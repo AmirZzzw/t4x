@@ -316,5 +316,11 @@
     "key": "Parsa",
     "expirydate": "15-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "09fd56759ecdfd29",
+    "key": "Amix1com",
+    "expirydate": "15-11-2025",
+    "Allowoffline": false
   }
 ]
