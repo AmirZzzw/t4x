@@ -322,5 +322,11 @@
     "key": "Amix1com",
     "expirydate": "15-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "/add ref 7681920786 15",
+    "key": "omega",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
