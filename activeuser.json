@@ -340,5 +340,11 @@
     "key": "omegaa",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "cd3895f6d5843a48",
+    "key": "Mostafa1385",
+    "expirydate": "15-12-2025",
+    "Allowoffline": false
   }
 ]
