@@ -352,5 +352,11 @@
     "key": "Eh4aNN",
     "expirydate": "15-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "636dd67ab67962aa",
+    "key": "T3T3T",
+    "expirydate": "16-11-2025",
+    "Allowoffline": false
   }
 ]
