@@ -346,5 +346,11 @@
     "key": "Bknashi",
     "expirydate": "16-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "95ee920cacd5f9e9",
+    "key": "fury",
+    "expirydate": "16-11-2025",
+    "Allowoffline": false
   }
 ]
