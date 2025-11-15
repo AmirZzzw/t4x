@@ -340,5 +340,11 @@
     "key": "hojjat",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3168fecf3208f671",
+    "key": "Bknashi",
+    "expirydate": "16-11-2025",
+    "Allowoffline": false
   }
 ]
