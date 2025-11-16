@@ -358,5 +358,11 @@
     "key": "T3T3T",
     "expirydate": "16-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "95ee920cacd5f9e9",
+    "key": "Mali",
+    "expirydate": "17-11-2025",
+    "Allowoffline": false
   }
 ]
