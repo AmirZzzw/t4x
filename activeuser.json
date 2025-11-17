@@ -364,5 +364,11 @@
     "key": "Mali",
     "expirydate": "17-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "60e03695a421df13",
+    "key": "Sorena",
+    "expirydate": "17-12-2025",
+    "Allowoffline": false
   }
 ]
