@@ -388,5 +388,11 @@
     "key": "DeRaKoLa",
     "expirydate": "21-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "c2c896db9d38b654",
+    "key": "Deviley",
+    "expirydate": "21-11-2025",
+    "Allowoffline": false
   }
 ]
