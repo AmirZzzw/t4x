@@ -394,5 +394,11 @@
     "key": "Deviley",
     "expirydate": "21-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "4e2b6de0c7ed5615",
+    "key": "Subzero",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
