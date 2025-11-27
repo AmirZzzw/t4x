@@ -418,5 +418,11 @@
     "key": "M308",
     "expirydate": "28-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "58e65bbf94efabce",
+    "key": "r",
+    "expirydate": "28-11-2025",
+    "Allowoffline": false
   }
 ]
