@@ -424,5 +424,11 @@
     "key": "r",
     "expirydate": "28-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8333ff302f961664",
+    "key": "M000",
+    "expirydate": "30-11-2025",
+    "Allowoffline": false
   }
 ]
