@@ -430,5 +430,11 @@
     "key": "M000",
     "expirydate": "30-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "68b3860c9a87bc42",
+    "key": "Mip061",
+    "expirydate": "06-12-2025",
+    "Allowoffline": false
   }
 ]
