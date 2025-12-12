@@ -448,5 +448,11 @@
     "key": "solder444",
     "expirydate": "10-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b4534f6d0019143e",
+    "key": "SobiSH",
+    "expirydate": "14-12-2025",
+    "Allowoffline": false
   }
 ]
