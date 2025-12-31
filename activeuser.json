@@ -472,5 +472,11 @@
         "key": "matinbara",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "96d00f97193babb5",
+        "key": "matinbara",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
