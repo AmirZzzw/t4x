@@ -460,5 +460,11 @@
         "key": "26",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "80e8cb82d092b1cd",
+        "key": "EER",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
