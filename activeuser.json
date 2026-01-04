@@ -478,5 +478,11 @@
         "key": "BOX",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "636098e9ae9d10bf",
+        "key": "MT",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
