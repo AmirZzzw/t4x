@@ -484,5 +484,11 @@
         "key": "MT",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f7045da937e1b0c3",
+        "key": "JENIX",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
