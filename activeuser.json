@@ -496,5 +496,11 @@
         "key": "X118X",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cb1a67d7c161563a",
+        "key": "BENI",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
